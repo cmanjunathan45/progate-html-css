@@ -1,0 +1,9 @@
+li {
+  color: #444;
+  selected:#ff0000;
+}
+
+/* Change the color of "selected" to #ff0000 */
+.selected{
+  color:#ff0000;
+}
